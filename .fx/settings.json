@@ -1,0 +1,19 @@
+{
+    "appName": "Claims",
+    "projectId": "f7206176-d69c-4a20-9d99-0c07d67c928e",
+    "solutionSettings": {
+        "name": "fx-solution-azure",
+        "version": "1.0.0",
+        "hostType": "SPFx",
+        "capabilities": [
+            "Tab"
+        ],
+        "azureResources": [],
+        "activeResourcePlugins": [
+            "fx-resource-spfx",
+            "fx-resource-local-debug",
+            "fx-resource-appstudio"
+        ]
+    },
+    "programmingLanguage": "typescript"
+}
